@@ -1,0 +1,18 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "2.0"
+  
+  
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs"
+  contactDetails:
+    name: "Swapnil-Java dev"
+    email: "Swap@gmail.com"
+  onCallSupport:
+    - (888)47387
+    - (9999)9487

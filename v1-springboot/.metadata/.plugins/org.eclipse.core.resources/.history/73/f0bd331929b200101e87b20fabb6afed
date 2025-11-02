@@ -1,0 +1,14 @@
+
+
+build:
+  version: "5.0"
+  
+  
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "suresh - Dev"
+    email: "suresh@gmail.com"
+  onCallSupport:
+     - (999)03732
+     - (555)54237

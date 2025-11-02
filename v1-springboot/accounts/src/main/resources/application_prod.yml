@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+  
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Singh - product owner"
+    email: "singh@gmail.com"
+  onCallSupport:
+    - (555)286-1234
+    - (555)5287-1345

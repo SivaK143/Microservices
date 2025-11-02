@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "8.0"
+  
+loans:
+  message: "Welcome to EazyBank loans related prod APIs"
+  contactDetails:
+    name: "Singh-Java"
+    email: "javadev@email.com"
+  onCallSupport:
+    - (9999)327
+    - (23627)237
